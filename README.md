@@ -2,6 +2,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aemloviji.aemloviji&style=flat-square&color=0088cc)
 
+I'm a passionate software engineer with 10+ years' experience building applications and systems based on the .NET platform. I like to continuously explore the latest software engineering trends and practices and use them to solve real world problems.
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-asadov/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elvin-asadov)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aemloviji@gmail.com?subject=[GitHub]%20Personal%20email)
